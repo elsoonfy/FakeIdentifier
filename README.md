@@ -76,7 +76,7 @@ To build a smart, reliable, and scalable tool that uses computer vision and AI t
 ## 📁 Dataset Info
 
 - Includes labeled image datasets of real and fake Nigerian ID documents.
-- Student ID samples from various Nigerian institutions.
+- Student ID samples from various Nigerian institutions.(UNILAG, FUTMINA, A B U, KASU etc)
 - Synthetic samples generated for training.
 > ⚠️ All data used is anonymized or artificially created to respect privacy.
 
@@ -85,7 +85,7 @@ To build a smart, reliable, and scalable tool that uses computer vision and AI t
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-fake-id-identifier.git
+git clone [https://github.com/elsoonfy/FakeIdentifier/ai-fake-id-identifier.git
 cd ai-fake-id-identifier
 pip install -r requirements.txt
 python app.py
@@ -100,28 +100,49 @@ python app.py
 - [ ] Integration with NIMC & BVN verification APIs
 - [ ] Mobile support (Flutter or React Native)
 
----
+📝 Data Collection Authorization Statement
+To ensure transparency and ethical compliance in the development of the AI Fake ID Identifier, this project observes the following data handling and authorization policies:
 
-## 🤝 Contributing
+✅ Authorization for Data Use
+We acknowledge the sensitivity of personally identifiable information (PII) and affirm the following:
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+Real ID Data Usage
 
----
+Any real Nigerian identification data (NIN, BVN, Student IDs, etc.) used for training purposes has been obtained with explicit consent from the individuals or institutions involved.
 
-## 📄 License
+Such data is used strictly for research and training purposes, with measures in place to anonymize or obfuscate any PII wherever possible.
 
-[MIT License](LICENSE)
+Synthetic/Fake Sample Data
 
----
+Where real data is unavailable or restricted, artificially generated (prop/fake) ID samples are created that resemble actual Nigerian identification formats for safe and ethical model training.
+
+These synthetic datasets are structurally and visually similar to real-world examples but contain no traceable personal data.
+
+Data Ownership & Rights
+
+The project contributors do not claim ownership over real ID samples provided by third parties. These remain the property of their original owners and are used solely with permission.
+
+Institutions or individuals who wish to withdraw their data may contact the project maintainer, and all relevant data will be promptly removed.
+
+🔐 Data Privacy & Protection
+All collected or generated data is handled securely with the following practices:
+
+No public exposure of real IDs or personal information.
+
+Offline or encrypted storage when handling sensitive datasets.
+
+Clear separation of real and synthetic datasets in the training process.
+
+📌 Disclaimer
+This project is intended for research, development, and identity fraud prevention. It does not grant any entity the right to misuse Nigerian national ID data or student ID formats for unauthorized or malicious purposes.
+
+By using, contributing to, or deploying this project, you agree to adhere to responsible data usage, uphold privacy standards, and comply with all applicable Nigerian data protection laws.
 
 ## 👨‍💻 Author
 
 **Elsoonfy**  
 Open to collaboration and real-world deployment for public/private sector use.
 
-```
-
----
 
 Would you like me to generate a `requirements.txt`, sample folder structure, or dataset guide for the repo as well?
 
