@@ -2,14 +2,15 @@
 
 ## Team
 Ibrahim Yusuf (Nigerian)
+
 Joseluis Garcia  (American)
+
 Pranav Mehendiratta  (Indian)
+
 Shubham Aggarwal  (Indian)
+
 Utkarsh Jain  (UK)
 
-Here’s a **GitHub README.md** formatted version of your project description for **AI Fake ID Identifier Based on Nigerian ID, NIN, BVN, etc. and Nigerian School and University IDs**:
-
----
 
 ```markdown
 # 🛡️ AI Fake ID Identifier 🇳🇬
