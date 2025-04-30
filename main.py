@@ -202,6 +202,7 @@ def extractText(imagePath):
         return match
     else:
         return None
-
+#final("show fake")
 if __name__ == '__main__':
     main(sys.argv)
+	
