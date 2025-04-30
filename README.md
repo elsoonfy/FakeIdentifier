@@ -114,7 +114,7 @@ Such data is used strictly for research and training purposes, with measures in 
 
 Synthetic/Fake Sample Data
 
-Where real data is unavailable or restricted, artificially generated (prop/fake) ID samples are created that resemble actual Nigerian identification formats for safe and ethical model training.
+Where real data is unavailable or restricted, artificially generated (prop/fake) ID samples are created that resemble actual Nigerian. American or any identification formats for safe and ethical model training.
 
 These synthetic datasets are structurally and visually similar to real-world examples but contain no traceable personal data.
 
